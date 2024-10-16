@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#! /usr/bin/env ruby
 
 def mes_variables
   a = 10
